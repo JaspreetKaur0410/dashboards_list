@@ -35,6 +35,6 @@ with col5:
     st.info("uber_pickups is built using streamlit and analyze about timings when people book more cabs")
 
 with col6:
-    st.link_button("sales_analytics_dashboard", "https://yt6hwgasmti9kt4vfs4jiu.streamlit.app/")
+    st.link_button("uber_pickups_dashboard", "https://yt6hwgasmti9kt4vfs4jiu.streamlit.app/")
 
 
