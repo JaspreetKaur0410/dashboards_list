@@ -6,8 +6,19 @@ st.header("Dashboard Apps")
 st.write("created by Jaspreet Kaur")
 
 col1_head,col2_head,col3_head=st.columns(3)
+col7,col8,col9=st.columns(3)
 col1,col2,col3=st.columns(3)
 col4,col5,col6=st.columns(3)
+
+
+with col7:
+    st.info("tweets_sentiment_analysis")
+
+with col8:
+    st.info("Sentiments of tweets are analyzed for different US airlines")
+
+with col9:
+    st.link_button("tweet_analysis_dashbaord", "https://tweetssentimentanalysis.streamlit.app/")
 
 
 with col1_head:
