@@ -18,7 +18,7 @@ with col8:
     st.info("Sentiments of tweets are analyzed for different US airlines")
 
 with col9:
-    st.link_button("tweet_analysis_dashbaord", "https://tweetssentimentanalysis.streamlit.app/")
+    st.link_button("tweets_analysis_dashbaord", "https://tweetssentimentanalysis.streamlit.app/")
 
 
 with col1_head:
