@@ -12,7 +12,7 @@ col1,col2,col3=st.columns(3)
 col4,col5,col6=st.columns(3)
 
 with col10:
-    st.info("tweets_sentiment_analysis")
+    st.info("UB_Beauty_Dashboard")
 
 with col11:
     st.info("Beauty products are analyzed")
