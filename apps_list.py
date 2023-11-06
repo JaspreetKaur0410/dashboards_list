@@ -6,9 +6,19 @@ st.header("Dashboard Apps")
 st.write("created by Jaspreet Kaur")
 
 col1_head,col2_head,col3_head=st.columns(3)
+col10,col11,col12=st.columns(3)
 col7,col8,col9=st.columns(3)
 col1,col2,col3=st.columns(3)
 col4,col5,col6=st.columns(3)
+
+with col10:
+    st.info("tweets_sentiment_analysis")
+
+with col11:
+    st.info("Beauty products are analyzed")
+
+with col12:
+    st.link_button("UB_Beauty_Dashboard", "https://ubdashboard.streamlit.app/Skin_Type")
 
 
 with col7:
