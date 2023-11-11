@@ -12,13 +12,13 @@ col7,col8,col9=st.columns(3)
 col1,col2,col3=st.columns(3)
 col4,col5,col6=st.columns(3)
 
-with col10:
+with col13:
     st.info("TABEAU LINK")
 
-with col11:
+with col14:
     st.info("Contains dashboards - created with Tableau")
 
-with col12:
+with col15:
     st.link_button("Tableau Link", "https://public.tableau.com/app/profile/jaspreet.kaur1574/vizzes")
 
 with col10:
