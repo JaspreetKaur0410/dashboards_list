@@ -6,7 +6,7 @@ st.header("Dashboard Apps")
 st.write("created by Jaspreet Kaur")
 
 col1_head,col2_head,col3_head=st.columns(3)
-col13,col4,col5=st.columns(3)
+col13,coll4,coll5=st.columns(3)
 col10,col11,col12=st.columns(3)
 col7,col8,col9=st.columns(3)
 col1,col2,col3=st.columns(3)
