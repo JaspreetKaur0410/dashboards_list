@@ -15,10 +15,10 @@ col4,col5,col6=st.columns(3)
 with col13:
     st.info("TABEAU LINK")
 
-with col14:
+with coll4:
     st.info("Contains dashboards - created with Tableau")
 
-with col15:
+with coll5:
     st.link_button("Tableau Link", "https://public.tableau.com/app/profile/jaspreet.kaur1574/vizzes")
 
 with col10:
