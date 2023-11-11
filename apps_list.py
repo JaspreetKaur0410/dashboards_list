@@ -6,10 +6,20 @@ st.header("Dashboard Apps")
 st.write("created by Jaspreet Kaur")
 
 col1_head,col2_head,col3_head=st.columns(3)
+col13,col4,col5=st.columns(3)
 col10,col11,col12=st.columns(3)
 col7,col8,col9=st.columns(3)
 col1,col2,col3=st.columns(3)
 col4,col5,col6=st.columns(3)
+
+with col10:
+    st.info("TABEAU LINK")
+
+with col11:
+    st.info("Contains dashboards - created with Tableau")
+
+with col12:
+    st.link_button("Tableau Link", "https://public.tableau.com/app/profile/jaspreet.kaur1574/vizzes")
 
 with col10:
     st.info("UB_Beauty_Dashboard")
