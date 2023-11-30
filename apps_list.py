@@ -28,7 +28,7 @@ with col11:
     st.info("Beauty products are analyzed")
 
 with col12:
-    st.link_button("UB_Beauty_Dashboard", "https://ubdashboard.streamlit.app/Skin_Type")
+    st.link_button("UB_Beauty_Dashboard", "https://ubdashboarn.streamlit.app/")
 
 
 with col7:
