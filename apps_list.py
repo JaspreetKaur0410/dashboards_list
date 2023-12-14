@@ -19,7 +19,7 @@ with coll4:
     st.info("Contains dashboards - created with Tableau")
 
 with coll5:
-    st.link_button("Tableau Link", "https://public.tableau.com/app/profile/jaspreet.kaur1574/vizzes")
+    st.link_button("Tableau Link", "https://public.tableau.com/app/profile/jaspreet.kaur5507/vizzes")
 
 with col10:
     st.info("UB_Beauty_Dashboard")
